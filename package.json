@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phamleduy04/corona-bot.git"
+    "url": "git+https://github.com/xwowabcxyz/corona.git"
   },
-  "author": "Duy Pham aka phamleduy04#9999",
+  "author": "ChingChong2020",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/phamleduy04/corona-bot/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/phamleduy04/corona-bot#readme",
+  "homepage": "",
   "dependencies": {
     "discord.js": "^11.5.1",
     "request": "^2.88.0"
