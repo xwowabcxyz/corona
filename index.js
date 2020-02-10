@@ -29,7 +29,7 @@ client.on(`message`, async message => {
                 .addField(`Số lượng ca nhiễm: `,`${xacnhan} ca`)
                 .addField(`Số người chết: `,`${die} người`)
                 .addField(`Số người bình phục: `,`${recoveries} người`)
-                .setFooter(`Nguồn: Wikipedia. Made by phamleduy04#9999`)
+                .setFooter(`ChingChong2020`)
             message.channel.send(embed)
         })
     }
